@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Blue 👋  
 
-<!--
-**BlueGlitch108/BlueGlitch108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer/pen tester based in South Africa!  
 
-Here are some ideas to get you started:
+💻 I'm trying to develop my programming skills to be able to build whatever I want!  
+🐍I'm currently learning C++ but i have dabbled in the likes of Python and Java previously.  
+🌹My favourite tools are [VS code](https://code.visualstudio.com) and [Eclipse IDE](https://eclipseide.org)!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭At the moment I'm trying to build up my github and find my way into the programming communinity!  
+
+**Fun Facts:**
++ I absolutely adore animals, my house has been called a zoo!  
++ I've been interested in computers from quite a young age due to my father  
++ I love watching anime  
++ **Hobbies:** gym, eating, sleeping and gaming!  
