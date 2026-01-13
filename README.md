@@ -6,7 +6,7 @@ I'm an aspiring software developer/pen tester based in South Africa!
 🐍I'm currently learning C++ but i have dabbled in the likes of Python and Java previously.  
 🌹My favourite tools are [VS code](https://code.visualstudio.com) and [Eclipse IDE](https://eclipseide.org)!  
 
-🔭At the moment I'm trying to build up my github and find my way into the programming communinity!  
+🔭At the moment I'm trying to build up my github and find my way into the programming community!  
 
 **Fun Facts:**
 + I absolutely adore animals, my house has been called a zoo!  
